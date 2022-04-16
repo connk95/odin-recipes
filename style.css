@@ -1,0 +1,60 @@
+.recipe {
+    font-family: helvetica, sans-serif;
+}
+
+.title {
+    font-family: helvetica, sans-serif;
+}
+
+h1 {
+    font-family: helvetica, sans-serif;
+}
+
+h3 {
+    font-family: helvetica, sans-serif;
+}
+
+p {
+    font-family: helvetica, sans-serif;
+}
+
+li {
+    font-family: helvetica, sans-serif;
+}
+
+a {
+    font-family: helvetica, sans-serif;
+}
+
+body {
+    border: red 1px solid;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-div {
+    font-size: 30px;
+    border: blue 10px solid;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.recipe-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin: 10px;
+    width: 15vw;
+    padding: 10px;
+}
